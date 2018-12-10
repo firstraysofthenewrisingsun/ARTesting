@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="tiannaart6" size="0.863600 0.647700" />
+    <ImageTarget name="tiannaart5" size="0.863600 0.647700" />
+    <ImageTarget name="tiannaart4" size="0.863600 0.647700" />
+    <ImageTarget name="tiannaart3" size="0.863600 0.647700" />
+    <ImageTarget name="tiannaart2" size="0.863600 0.647700" />
+    <ImageTarget name="tiannaart1" size="0.647700 0.485775" />
+  </Tracking>
+</QCARConfig>
